@@ -1,6 +1,6 @@
 # ReduxSimpleStarter Training
 
-For following along [Stephen Grider's React-Redux Udemy tutorial](https://www.udemy.com/react-redux/)?
+For following along [Stephen Grider's React-Redux Udemy tutorial](https://www.udemy.com/react-redux/)
 
 ### Notes
 
